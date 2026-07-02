@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Desembaralhar</string>
+
+    <string-array name="words_data">
+        <item>animal</item>
+        <item>auto</item>
+        <item>alfabeto</item>
+        <item>amarelo</item>
+        <item>ameixa</item>
+        <item>baton</item>
+        <item>barraca</item>
+        <item>bambu</item>
+        <item>basquete</item>
+        <item>banco</item>
+        <item>buraco</item>
+        <item>cortina</item>
+        <item>cama</item>
+        <item>cartaz</item>
+        <item>curiosidade</item>
+        <item>castelo</item>
+        <item>curso</item>
+        <item>cristal</item>
+        <item>canguru</item>
+        <item>chumbo</item>
+        <item>claridade</item>
+        <item>dado</item>
+        <item>destino</item>
+        <item>damasco</item>
+        <item>eletricidade</item>
+        <item>elasticidade</item>
+        <item>estante</item>
+        <item>esquecimento</item>
+        <item>elefante</item>
+        <item>esquilo</item>
+        <item>finalizar</item>
+        <item>faca</item>
+        <item>festa</item>
+        <item>festival</item>
+        <item>fama</item>
+        <item>farofa</item>
+        <item>feijoada</item>
+        <item>girafa</item>
+        <item>gangorra</item>
+        <item>guardanapo</item>
+        <item>garagem</item>
+        <item>gelo</item>
+        <item>gasolina</item>
+        <item>guitarra</item>
+        <item>harmonia</item>
+        <item>hamburguer</item>
+        <item>helicoptero</item>
+        <item>harmonia</item>
+        <item>investimento</item>
+        <item>iguana</item>
+        <item>inventar</item>
+        <item>janela</item>
+        <item>jaca</item>
+        <item>javali</item>
+        <item>juramento</item>
+        <item>juventude</item>
+        <item>jornal</item>
+        <item>laranja</item>
+        <item>louça</item>
+        <item>livro</item>
+        <item>livramento</item>
+        <item>lavar</item>
+        <item>lustre</item>
+        <item>listagem</item>
+        <item>luva</item>
+        <item>manga</item>
+        <item>maravilha</item>
+        <item>muro</item>
+        <item>muralha</item>
+        <item>misterioso</item>
+        <item>montanha</item>
+        <item>navio</item>
+        <item>natureza</item>
+        <item>naturalidade</item>
+        <item>novidade</item>
+        <item>nuvem</item>
+        <item>ovelha</item>
+        <item>onda</item>
+        <item>orvalho</item>
+        <item>pipoca</item>
+        <item>puro</item>
+        <item>poste</item>
+        <item>postagem</item>
+        <item>pirulito</item>
+        <item>rua</item>
+        <item>rato</item>
+        <item>riqueza</item>
+        <item>revestimento</item>
+        <item>sacola</item>
+        <item>suavidade</item>
+        <item>sinceridade</item>
+        <item>semestre</item>
+        <item>tatu</item>
+        <item>teste</item>
+        <item>tomate</item>
+        <item>temperatura</item>
+        <item>tesoura</item>
+        <item>uva</item>
+        <item>vagalume</item>
+        <item>vassoura</item>
+        <item>vestido</item>
+        <item>verruga</item>
+        <item>vespa</item>
+        <item>xadrez</item>
+        <item>zebra</item>
+    </string-array>
+
+    <string name="instructions">Desembaralhe a palavra usando todas as letras.</string>
+    <string name="skip">Pular</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Pontuação: %d</string>
+    <string name="word_count">%d/10</string>
+    <string name="enter_your_word">Digite sua palavra</string>
+    <string name="congratulations">Parabéns!</string>
+    <string name="you_scored">"Sua pontuação final foi de:"</string>
+    <string name="exit">Sair</string>
+    <string name="play_again">Jogar novamente</string>
+    <string name="wrong_guess">Palpite errado!</string>
+</resources>
