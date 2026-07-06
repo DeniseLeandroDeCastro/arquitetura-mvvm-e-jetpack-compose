@@ -6,9 +6,7 @@ plugins {
 android {
     namespace = "br.com.denisecastro.desembaralhar"
     compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
+        version = release(37)
     }
 
     defaultConfig {
