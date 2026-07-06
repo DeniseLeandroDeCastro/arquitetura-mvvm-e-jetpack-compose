@@ -116,7 +116,7 @@
     <string name="word_count">%d/10</string>
     <string name="enter_your_word">Digite sua palavra</string>
     <string name="congratulations">Parabéns!</string>
-    <string name="you_scored">"Sua pontuação final foi de:"</string>
+    <string name="you_scored">"Sua pontuação final foi de: %d"</string>
     <string name="exit">Sair</string>
     <string name="play_again">Jogar novamente</string>
     <string name="wrong_guess">Palpite errado!</string>
